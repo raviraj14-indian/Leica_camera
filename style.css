@@ -274,7 +274,7 @@ footer h4 {
 
 .social {
   display: flex;
-  grid-column: 5/7;
+  grid-column: 6/7;
   align-items: center;
   justify-content: space-around;
   height: 100%;
